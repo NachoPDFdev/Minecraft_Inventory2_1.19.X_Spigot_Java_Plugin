@@ -1,0 +1,8 @@
+name: Inventory2
+version: '1.0'
+main: tu.paquete.inventory2.Inventory2
+api-version: '1.19'
+commands:
+  inv2:
+    description: Opens your second inventory
+    usage: /<command>
